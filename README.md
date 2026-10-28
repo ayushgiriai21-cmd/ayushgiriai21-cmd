@@ -1,17 +1,17 @@
-<!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Ayush%20Giri&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%E2%80%A2%20Builder%20%E2%80%A2%20Teacher%20of%20Code&descSize=20&descAlignY=58" alt="Ayush Giri banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Ayush%20Giri&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%E2%80%A2%20Builder%20%E2%80%A2%20Teacher%20of%20Code&descSize=20&descAlignY=58" alt="Ayush Giri banner" width="100%"/>
 
 <a href="https://github.com/Let-s-Code-India">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2EA44F&center=true&vCenter=true&width=640&lines=Founder+of+Let's+Code+India;Rebuilding+big+projects+from+scratch;Teaching+code+from+basic+to+advanced;Learn+by+building+real+things" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2EA44F&center=true&vCenter=true&width=700&lines=Founder+of+Let's+Code+India;Rebuilding+big+projects+from+scratch;Teaching+code+from+basic+to+advanced;Learn+by+building+real+things" alt="Typing animation" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Let-s-Code-India"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FLet-s-Code-India&query=%24.public_repos&label=Org%20Repositories&style=for-the-badge&color=2ea44f&logo=github&logoColor=white" alt="Organization repositories"/></a>
 <a href="https://github.com/Let-s-Code-India"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Forgs%2FLet-s-Code-India&query=%24.followers&label=Org%20Followers&style=for-the-badge&color=0969da&logo=github&logoColor=white" alt="Organization followers"/></a>
 <img src="https://img.shields.io/badge/Based%20in-Mumbai%2C%20India-ff9933?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Mumbai, India"/>
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-8957e5?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration"/>
 
 </div>
 
@@ -29,7 +29,7 @@
 
 ---
 
-# 🏢 My Organization
+# 🏢 Let’s Code India
 
 <div align="center">
 
@@ -37,21 +37,40 @@
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Let's%20Code%20India-Visit%20the%20Organization-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Let's Code India"/>
 </a>
 
-> All my projects live inside the **Let’s Code India** organization, so the repository count above is pulled live from the organization, not from this personal account.
-
 </div>
 
-<!--
-  PIN YOUR ORGANIZATION REPOS (optional):
-  Replace REPO_NAME with a real repository name from the organization,
-  copy the block for each repo you want to show, then remove this comment.
+All my projects live inside the **Let’s Code India** organization, so that is where the repositories are. The badges at the top pull the live numbers from the organization, not from this personal account.
+
+**What the organization stands for**
+
+| 🎯 Mission | 🛠️ Method | 🌍 Goal |
+|---|---|---|
+| Make coding easy to learn for everyone | Rebuild real projects from scratch, step by step | Grow a community that learns and builds together |
+
+---
+
+# 🧭 My Learning Path
+
+> The way I like to teach: start small, build real things, then go deeper.
+
+| Level | What we build | Focus |
+|:---:|---|---|
+| 🟢 **Basic** | Small programs and simple projects | Logic, syntax, thinking like a programmer |
+| 🟡 **Intermediate** | Full apps with a frontend and a backend | Structure, databases, APIs, debugging |
+| 🔴 **Advanced** | Rebuilding well-known tools from scratch | How big systems really work inside |
+
+---
+
+# 🤝 Let’s Collaborate
 
 <div align="center">
-  <a href="https://github.com/Let-s-Code-India/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Let-s-Code-India&repo=REPO_NAME&theme=radical&hide_border=true" />
-  </a>
+
+If you like **learning by building**, **open source**, or want to help grow a coding community in India, let’s talk.
+
+<a href="mailto:ayushgiri.ai.21@gmail.com"><img src="https://img.shields.io/badge/Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
+<a href="https://github.com/Let-s-Code-India"><img src="https://img.shields.io/badge/Join%20the%20organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="Join the organization"/></a>
+
 </div>
--->
 
 ---
 
@@ -156,17 +175,7 @@
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushgiriai21-cmd&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushgiriai21-cmd&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies"/>
+<img width="100%" src="https://ghchart.rshah.org/2ea44f/ayushgiriai21-cmd" alt="Contribution chart"/>
 
 </div>
 
@@ -184,10 +193,12 @@
 
 <div align="center">
 
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=ayushgiriai21-cmd&label=Profile%20Views&color=2ea44f&style=for-the-badge" alt="Profile views"/></a>
+<img src="https://komarev.com/ghpvc/?username=ayushgiriai21-cmd&label=Profile%20Views&color=2ea44f&style=for-the-badge" alt="Profile views"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="footer"/>
+<br/>
+
+**⭐ Learn by building. Build to teach. ⭐**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
